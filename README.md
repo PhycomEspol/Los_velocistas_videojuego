@@ -5,5 +5,4 @@ Tener instalado las siguientes librerías para un funcionamiento correcto del pr
 pip install opencv-python
 pip install mediapipe
 pip install pynput
-
 ```
